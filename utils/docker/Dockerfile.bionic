@@ -1,4 +1,4 @@
-FROM ubuntu:bionic
+FROM ubuntu:latest
 
 ARG DEBIAN_FRONTEND=noninteractive
 ARG TZ=America/Los_Angeles
